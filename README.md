@@ -102,9 +102,11 @@ This project helped in understanding:
 
 ## Author
 
-**Raus**
+**Raushan Kumar**
 
-Engineering Student | VLSI & Digital Design Enthusiast
+Engineering Student (EE VLSI) | VLSI & Digital Design Enthusiast
+JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY, NOIDA 
+www.linkedin.com/in/raushan-kumar-a717681b9
 
 ---
 
