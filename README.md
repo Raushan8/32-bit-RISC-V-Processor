@@ -56,12 +56,10 @@ The project demonstrates the complete datapath and control logic required to fet
 
 ---
 
-## Tools Used
+## Tools and languages Used
 
 * Verilog HDL
 * AMD Xilinx Vivado
-* Git
-* GitHub
 
 ---
 
@@ -104,7 +102,7 @@ This project helped in understanding:
 
 **Raushan Kumar**
 
-Engineering Student (EE VLSI) | VLSI & Digital Design Enthusiast | 
+B.Tech - Electronics Engineering (VLSI Design & Technology) 
 JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY, NOIDA 
 www.linkedin.com/in/raushan-kumar-a717681b9
 
